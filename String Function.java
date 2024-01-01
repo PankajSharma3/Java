@@ -4,5 +4,6 @@ class Main{
         System.out.println(txt.toUpperCase());
         System.out.println(txt.toLowerCase()); 
         System.out.println(txt.indexOf("W"));
+        System.out.println(txt.length());
     }
 }
